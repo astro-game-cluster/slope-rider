@@ -1,0 +1,185 @@
+# Slope Rider - LLMs Guide
+
+Hit treacherous slopes in Slope Rider! Evade deadly obstacles, survive as long as possible, and achieve high scores. Play now!
+
+## Primary Pages & URLs
+- Homepage: https://sloperider.net/
+- About Us: https://sloperider.net/about-us
+
+## Games Collection
+- **City Run.io: Become a Giant! Play Free on Slope Rider**: https://sloperider.net/game/city-run-io
+- **Curve Rush IO: Race, Outmaneuver &amp; Win!**: https://sloperider.net/game/curve-rush-io
+- **Slope Rider: Rasantes Rodelabenteuer** (DE Featured Game): https://sloperider.net/de
+- **City Run.io: Werde zum Riesen! Kostenlos auf Slope Rider spielen** (DE): https://sloperider.net/de/game/city-run-io
+- **Curve Rush IO: Rennen, Manövrieren &amp; Gewinnen!** (DE): https://sloperider.net/de/game/curve-rush-io
+- **Ente Ente 2: Kostenloses Puzzlespiel spielen** (DE): https://sloperider.net/de/game/duck-duck-2
+- **Growden.io: Kostenloses Farming-Simulatorspiel** (DE): https://sloperider.net/de/game/growden-io
+- **Last to Leave Circle Obby: Kostenloses Survival-Spiel** (DE): https://sloperider.net/de/game/last-to-leave-circle-obby
+- **Slope: Endloses Arcade-Ballspiel | Kostenlos spielen auf Slope Rider** (DE): https://sloperider.net/de/game/slope
+- **Slope 2: Endloser Arcade-Spaß - Spiele kostenlos auf Slope Rider!** (DE): https://sloperider.net/de/game/slope-2
+- **Slope 3: Endloses Rolling Ball Abenteuer** (DE): https://sloperider.net/de/game/slope-3
+- **Snow Road: Endless Sled Fun - Kostenlos auf Slope Rider spielen** (DE): https://sloperider.net/de/game/snow-road
+- **Snow Road 3D: Rennen, Stunt &amp; Sieg** (DE): https://sloperider.net/de/game/snow-road-3d
+- **SquidGame.io: Kostenloses Multiplayer-Survival-Spiel** (DE): https://sloperider.net/de/game/squidgame-io
+- **Steal a Brainrot: Multiplayer Heist Game** (DE): https://sloperider.net/de/game/steal-a-brainrot
+- **Super Mario Run: Jetzt kostenlos auf Slope Rider spielen!** (DE): https://sloperider.net/de/game/super-mario-run
+- **Tic Tac Toe IO: Online Multiplayer Fun** (DE): https://sloperider.net/de/game/tic-tac-toe-io
+- **Wacky Flip: Parkour Stunt Game - Play Free** (DE): https://sloperider.net/de/game/wacky-flip
+- **Duck Duck 2**: https://sloperider.net/game/duck-duck-2
+- **Slope Rider: Juego de aventura de trineo a alta velocidad** (ES-ES Featured Game): https://sloperider.net/es-ES
+- **City Run.io: ¡Conviértete en un Gigante! Juega Gratis en Slope Rider** (ES-ES): https://sloperider.net/es-ES/game/city-run-io
+- **Curve Rush IO: ¡Corre, supera y gana!** (ES-ES): https://sloperider.net/es-ES/game/curve-rush-io
+- **Duck Duck 2: ¡Juego de puzles gratis!** (ES-ES): https://sloperider.net/es-ES/game/duck-duck-2
+- **Growden.io: Juego de simulación agrícola gratuito** (ES-ES): https://sloperider.net/es-ES/game/growden-io
+- **Last to Leave Circle Obby: Juego de Supervivencia Gratuito** (ES-ES): https://sloperider.net/es-ES/game/last-to-leave-circle-obby
+- **Slope: Juego de bolas arcade sin fin | Juega gratis en Slope Rider** (ES-ES): https://sloperider.net/es-ES/game/slope
+- **Slope 2: Diversión Arcade Infinita - ¡Juega Gratis en Slope Rider!** (ES-ES): https://sloperider.net/es-ES/game/slope-2
+- **Slope 3: Aventura Infinita de la Bola Rodante** (ES-ES): https://sloperider.net/es-ES/game/slope-3
+- **Snow Road: Diversión Infinita en Trineo - Juega Gratis en Slope Rider** (ES-ES): https://sloperider.net/es-ES/game/snow-road
+- **Snow Road 3D: ¡Corre, Haz acrobacias y Gana!** (ES-ES): https://sloperider.net/es-ES/game/snow-road-3d
+- **SquidGame.io: Juega al Supervivencia Multijugador Gratis** (ES-ES): https://sloperider.net/es-ES/game/squidgame-io
+- **Steal a Brainrot: Juego Multijugador de atracos** (ES-ES): https://sloperider.net/es-ES/game/steal-a-brainrot
+- **Super Mario Run: ¡Juega gratis ahora en Slope Rider!** (ES-ES): https://sloperider.net/es-ES/game/super-mario-run
+- **Tic Tac Toe IO: Diversión multijugador online** (ES-ES): https://sloperider.net/es-ES/game/tic-tac-toe-io
+- **Wacky Flip: Juego de acrobacias parkour - Juega gratis** (ES-ES): https://sloperider.net/es-ES/game/wacky-flip
+- **Slope Rider: Jeu d&#x27;aventure de luge rapide** (FR Featured Game): https://sloperider.net/fr
+- **City Run.io: Devenez un Géant ! Jouez Gratuitement sur Slope Rider** (FR): https://sloperider.net/fr/game/city-run-io
+- **Curve Rush IO: Course, Dépassement et Victoire !** (FR): https://sloperider.net/fr/game/curve-rush-io
+- **Duck Duck 2 : Jeu de puzzle gratuit** (FR): https://sloperider.net/fr/game/duck-duck-2
+- **Growden.io : Jeu de simulation agricole gratuit** (FR): https://sloperider.net/fr/game/growden-io
+- **Last to Leave Circle Obby: Jeu de Survie Gratuit** (FR): https://sloperider.net/fr/game/last-to-leave-circle-obby
+- **Slope: Jeu de balle d&#x27;arcade sans fin | Jouez gratuitement sur Slope Rider** (FR): https://sloperider.net/fr/game/slope
+- **Slope 2: Amusement d&#x27;arcade sans fin - Jouez gratuitement sur Slope Rider !** (FR): https://sloperider.net/fr/game/slope-2
+- **Slope 3 : Aventure sans fin de la balle roulante** (FR): https://sloperider.net/fr/game/slope-3
+- **Snow Road: Amusement sans fin en luge - Jouez gratuitement sur Slope Rider** (FR): https://sloperider.net/fr/game/snow-road
+- **Snow Road 3D: Course, Cascade et Victoire** (FR): https://sloperider.net/fr/game/snow-road-3d
+- **SquidGame.io : Jouez au jeu de survie multijoueur gratuit** (FR): https://sloperider.net/fr/game/squidgame-io
+- **Steal a Brainrot: Jeu de braquage multijoueur** (FR): https://sloperider.net/fr/game/steal-a-brainrot
+- **Super Mario Run** (FR): https://sloperider.net/fr/game/super-mario-run
+- **Tic Tac Toe IO : Le plaisir multijoueur en ligne** (FR): https://sloperider.net/fr/game/tic-tac-toe-io
+- **Wacky Flip: Jeu de cascades de parkour - Jouez gratuitement** (FR): https://sloperider.net/fr/game/wacky-flip
+- **Growden.io**: https://sloperider.net/game/growden-io
+- **Slope Rider: Fast-Paced Sledding Adventure Game** (Featured Game): https://sloperider.net/
+- **Slope Rider: Avventura di slittino frenetica** (IT Featured Game): https://sloperider.net/it
+- **City Run.io: Diventa un Gigante! Gioca Gratis su Slope Rider** (IT): https://sloperider.net/it/game/city-run-io
+- **Curve Rush IO: Corri, Supera e Vinci!** (IT): https://sloperider.net/it/game/curve-rush-io
+- **Duck Duck 2: Gioco Puzzle Gratuito** (IT): https://sloperider.net/it/game/duck-duck-2
+- **Growden.io: Gioca al Simulatore di Fattoria Gratuito** (IT): https://sloperider.net/it/game/growden-io
+- **Last to Leave Circle Obby: Gioca al Gioco di Sopravvivenza Gratuito** (IT): https://sloperider.net/it/game/last-to-leave-circle-obby
+- **Slope: Gioco Arcade di Palla Senza Fine | Gioca Gratis su Slope Rider** (IT): https://sloperider.net/it/game/slope
+- **Slope 2: Divertimento Arcade Infinito - Gioca Gratis su Slope Rider!** (IT): https://sloperider.net/it/game/slope-2
+- **Slope 3: Avventura Infinita con la Palla Rotolante** (IT): https://sloperider.net/it/game/slope-3
+- **Snow Road: Divertimento Senza Fine sugli Slittini - Gioca Gratis su Slope Rider** (IT): https://sloperider.net/it/game/snow-road
+- **Snow Road 3D: Corri, Esegui Stunt e Vinci** (IT): https://sloperider.net/it/game/snow-road-3d
+- **SquidGame.io: Gioca Gratis al Multiplayer Survival** (IT): https://sloperider.net/it/game/squidgame-io
+- **Steal a Brainrot: Gioco Heist Multigiocatore** (IT): https://sloperider.net/it/game/steal-a-brainrot
+- **Super Mario Run: Gioca gratis ora su Slope Rider!** (IT): https://sloperider.net/it/game/super-mario-run
+- **Tic Tac Toe IO: Divertimento multigiocatore online** (IT): https://sloperider.net/it/game/tic-tac-toe-io
+- **Wacky Flip: Gioco di acrobazie parkour - Gioca gratis** (IT): https://sloperider.net/it/game/wacky-flip
+- **Slope Rider: スピーディーなソリ滑りアドベンチャーゲーム** (JA Featured Game): https://sloperider.net/ja
+- **City Run.io: 巨人に変身！Slope Riderで無料プレイ** (JA): https://sloperider.net/ja/game/city-run-io
+- **Curve Rush IO: レース、アウトマニューバ、勝利！| スロープライダー** (JA): https://sloperider.net/ja/game/curve-rush-io
+- **Duck Duck 2：無料パズルゲームをプレイ** (JA): https://sloperider.net/ja/game/duck-duck-2
+- **Growden.io: 無料の農業シミュレーションゲーム | スロープライダー** (JA): https://sloperider.net/ja/game/growden-io
+- **ラスト・トゥ・リーブ・サークル・オビー：無料サバイバルゲーム | スロープライダー** (JA): https://sloperider.net/ja/game/last-to-leave-circle-obby
+- **Slope: エンドレスアーケードボールゲーム** (JA): https://sloperider.net/ja/game/slope
+- **Slope 2: エンドレスアーケードの楽しさ** (JA): https://sloperider.net/ja/game/slope-2
+- **Slope 3: エンドレスローリングボールアドベンチャー** (JA): https://sloperider.net/ja/game/slope-3
+- **スノーロード：エンドレスそりゲーム** (JA): https://sloperider.net/ja/game/snow-road
+- **スノーロード3D：レース、スタント、勝利！| スロープライダー** (JA): https://sloperider.net/ja/game/snow-road-3d
+- **SquidGame.io: 無料マルチプレイヤーサバイバル** (JA): https://sloperider.net/ja/game/squidgame-io
+- **Steal a Brainrot: マルチプレイヤー強盗ゲーム** (JA): https://sloperider.net/ja/game/steal-a-brainrot
+- **Super Mario Run: Slope Riderで今すぐ無料でプレイ！** (JA): https://sloperider.net/ja/game/super-mario-run
+- **Tic Tac Toe IO：オンラインマルチプレイヤーの楽しさ** (JA): https://sloperider.net/ja/game/tic-tac-toe-io
+- **Wacky Flip: パルクールスタントゲーム - 無料プレイ** (JA): https://sloperider.net/ja/game/wacky-flip
+- **슬로프 라이더: 스릴 넘치는 썰매 어드벤처 게임** (KO Featured Game): https://sloperider.net/ko
+- **City Run.io: 거인이 되어 보세요! Slope Rider에서 무료 플레이** (KO): https://sloperider.net/ko/game/city-run-io
+- **Curve Rush IO: 레이스, 아웃마누버 &amp; 승리! | 슬로프 라이더** (KO): https://sloperider.net/ko/game/curve-rush-io
+- **꽥꽥 2: 무료 퍼즐 게임 플레이 | 슬로프 라이더** (KO): https://sloperider.net/ko/game/duck-duck-2
+- **Growden.io: 무료 농사 시뮬레이션 게임** (KO): https://sloperider.net/ko/game/growden-io
+- **마지막 원형 오비에서 탈출: 무료 생존 게임 플레이 | 슬로프 라이더** (KO): https://sloperider.net/ko/game/last-to-leave-circle-obby
+- **Slope: 끝없는 아케이드 볼 게임** (KO): https://sloperider.net/ko/game/slope
+- **Slope 2: 끝없는 아케이드 재미** (KO): https://sloperider.net/ko/game/slope-2
+- **Slope 3: 끝없는 롤링 볼 어드벤처** (KO): https://sloperider.net/ko/game/slope-3
+- **스노우 로드: 엔드리스 썰매 - 슬로프 라이더에서 무료 플레이** (KO): https://sloperider.net/ko/game/snow-road
+- **스노우 로드 3D: 레이스, 스턴트 &amp; 승리 | 슬로프 라이더** (KO): https://sloperider.net/ko/game/snow-road-3d
+- **SquidGame.io: 무료 멀티플레이어 서바이벌 게임 | 슬로프 라이더** (KO): https://sloperider.net/ko/game/squidgame-io
+- **브레인로트 훔치기: 멀티플레이어 하이스트 게임 - 슬로프 라이더** (KO): https://sloperider.net/ko/game/steal-a-brainrot
+- **슈퍼 마리오 런: 슬로프 라이더에서 지금 무료로 플레이하세요!** (KO): https://sloperider.net/ko/game/super-mario-run
+- **틱택토 IO: 온라인 멀티플레이어 재미 | 슬로프 라이더** (KO): https://sloperider.net/ko/game/tic-tac-toe-io
+- **와키 플립: 파쿠르 스턴트 게임 - 무료 플레이 | 슬로프 라이더** (KO): https://sloperider.net/ko/game/wacky-flip
+- **Last to Leave Circle Obby**: https://sloperider.net/game/last-to-leave-circle-obby
+- **Slope Rider: Snelheid Sledetocht Avontuur** (NL Featured Game): https://sloperider.net/nl
+- **City Run.io: Word een Reus! Speel Gratis op Slope Rider** (NL): https://sloperider.net/nl/game/city-run-io
+- **Curve Rush IO: Race, Outmaneuver &amp; Win!** (NL): https://sloperider.net/nl/game/curve-rush-io
+- **Duck Duck 2: Speel gratis puzzelspel** (NL): https://sloperider.net/nl/game/duck-duck-2
+- **Growden.io: Speel Gratis Farming Sim** (NL): https://sloperider.net/nl/game/growden-io
+- **Wie het laatst overblijft Cirkel Obby: Speel gratis survival game** (NL): https://sloperider.net/nl/game/last-to-leave-circle-obby
+- **Slope: Eindeloze Arcade Ball Game | Speel Gratis op Slope Rider** (NL): https://sloperider.net/nl/game/slope
+- **Slope 2: Eindeloos Arcade Plezier - Speel Gratis op Slope Rider!** (NL): https://sloperider.net/nl/game/slope-2
+- **Slope 3: Eindeloos rollend balavontuur** (NL): https://sloperider.net/nl/game/slope-3
+- **Snow Road: Eindeloos Sledepret - Speel Gratis op Slope Rider** (NL): https://sloperider.net/nl/game/snow-road
+- **Snow Road 3D: Race, Stunt &amp; Win** (NL): https://sloperider.net/nl/game/snow-road-3d
+- **SquidGame.io: Speel Gratis Multiplayer Survival** (NL): https://sloperider.net/nl/game/squidgame-io
+- **Steal a Brainrot: Multiplayer Heist Game** (NL): https://sloperider.net/nl/game/steal-a-brainrot
+- **Super Mario Run: Speel nu gratis op Slope Rider!** (NL): https://sloperider.net/nl/game/super-mario-run
+- **Tic Tac Toe IO: Online Multiplayer Plezier** (NL): https://sloperider.net/nl/game/tic-tac-toe-io
+- **Gekke Flip: Parkour Stunt Game - Speel Gratis** (NL): https://sloperider.net/nl/game/wacky-flip
+- **Slope Rider: Jogo de Aventura de Trenó de Ritmo Rápido** (PT-PT Featured Game): https://sloperider.net/pt-PT
+- **City Run.io: Torna-te um Gigante! Joga Grátis no Slope Rider** (PT-PT): https://sloperider.net/pt-PT/game/city-run-io
+- **Curve Rush IO: Corrida, Supera e Ganha!** (PT-PT): https://sloperider.net/pt-PT/game/curve-rush-io
+- **Duck Duck 2: Joga o Jogo de Puzzle Gratuito** (PT-PT): https://sloperider.net/pt-PT/game/duck-duck-2
+- **Growden.io: Jogue o Simulador de Agricultura Grátis** (PT-PT): https://sloperider.net/pt-PT/game/growden-io
+- **Last to Leave Circle Obby: Jogo de Sobrevivência Gratuito** (PT-PT): https://sloperider.net/pt-PT/game/last-to-leave-circle-obby
+- **Slope: Jogo de Bola Arcade Infinito | Jogue Grátis no Slope Rider** (PT-PT): https://sloperider.net/pt-PT/game/slope
+- **Slope 2: Diversão Arcade Sem Fim - Joga Grátis no Slope Rider!** (PT-PT): https://sloperider.net/pt-PT/game/slope-2
+- **Slope 3: Aventura Infinita da Bola Rolante** (PT-PT): https://sloperider.net/pt-PT/game/slope-3
+- **Snow Road: Diversão Sem Fim de Trenó - Jogue Grátis no Slope Rider** (PT-PT): https://sloperider.net/pt-PT/game/snow-road
+- **Snow Road 3D: Corrida, Manobras e Vitória** (PT-PT): https://sloperider.net/pt-PT/game/snow-road-3d
+- **SquidGame.io: Jogue Sobrevivência Multijogador Gratuita** (PT-PT): https://sloperider.net/pt-PT/game/squidgame-io
+- **Roubar um Brainrot: Jogo de Assalto Multijogador** (PT-PT): https://sloperider.net/pt-PT/game/steal-a-brainrot
+- **Super Mario Run: Joga Grátis Agora no Slope Rider!** (PT-PT): https://sloperider.net/pt-PT/game/super-mario-run
+- **Tic Tac Toe IO: Diversão Multijogador Online** (PT-PT): https://sloperider.net/pt-PT/game/tic-tac-toe-io
+- **Wacky Flip: Jogo de Parkour com Acrobacias - Jogue Grátis** (PT-PT): https://sloperider.net/pt-PT/game/wacky-flip
+- **Slope: Endless Arcade Ball Game | Play Free on Slope Rider**: https://sloperider.net/game/slope
+- **Slope 2: Endless Arcade Fun - Play Free on Slope Rider!**: https://sloperider.net/game/slope-2
+- **Slope 3: Endless Rolling Ball Adventure**: https://sloperider.net/game/slope-3
+- **Snow Road: Endless Sled Fun - Play Free on Slope Rider**: https://sloperider.net/game/snow-road
+- **Snow Road 3D: Race, Stunt &amp; Win**: https://sloperider.net/game/snow-road-3d
+- **SquidGame.io**: https://sloperider.net/game/squidgame-io
+- **Steal a Brainrot: Multiplayer Heist Game**: https://sloperider.net/game/steal-a-brainrot
+- **Super Mario Run**: https://sloperider.net/game/super-mario-run
+- **Tic Tac Toe IO: Online Multiplayer Fun**: https://sloperider.net/game/tic-tac-toe-io
+- **Wacky Flip: Parkour Stunt Game - Play Free**: https://sloperider.net/game/wacky-flip
+- **雪地骑士：极速雪橇冒险游戏** (ZH-CN Featured Game): https://sloperider.net/zh-CN
+- **城市跑酷.io：变身巨人！在坡道滑行者上免费玩** (ZH-CN): https://sloperider.net/zh-CN/game/city-run-io
+- **Curve Rush IO：竞速、智胜、夺冠！ | 斜坡赛车** (ZH-CN): https://sloperider.net/zh-CN/game/curve-rush-io
+- **鸭鸭2：玩免费益智游戏 | 斜坡骑手** (ZH-CN): https://sloperider.net/zh-CN/game/duck-duck-2
+- **Growden.io：畅玩免费农场模拟器 | 斜坡骑手** (ZH-CN): https://sloperider.net/zh-CN/game/growden-io
+- **最后离开圆圈跑酷：玩免费生存游戏 | 斜坡骑手** (ZH-CN): https://sloperider.net/zh-CN/game/last-to-leave-circle-obby
+- **斜坡：无尽街机球类游戏 | 在斜坡滑道上免费畅玩** (ZH-CN): https://sloperider.net/zh-CN/game/slope
+- **斜坡2：无尽街机乐趣 - 在斜坡赛车手 (Slope Rider) 上免费玩！** (ZH-CN): https://sloperider.net/zh-CN/game/slope-2
+- **坡道3：无尽滚球冒险 | 坡道骑士** (ZH-CN): https://sloperider.net/zh-CN/game/slope-3
+- **雪地狂飙：无尽雪橇乐趣 - 在坡道滑雪者上免费畅玩** (ZH-CN): https://sloperider.net/zh-CN/game/snow-road
+- **雪地竞速3D：竞速、特技 &amp; 赢 | 斜坡滑行** (ZH-CN): https://sloperider.net/zh-CN/game/snow-road-3d
+- **鱿鱼游戏.io：畅玩免费多人大逃杀 | 坡道骑手** (ZH-CN): https://sloperider.net/zh-CN/game/squidgame-io
+- **窃取脑洞：多人合作抢劫游戏 - 坡道骑士** (ZH-CN): https://sloperider.net/zh-CN/game/steal-a-brainrot
+- **超级马里奥酷跑：现在就在坡道赛车免费玩！** (ZH-CN): https://sloperider.net/zh-CN/game/super-mario-run
+- **井字棋 IO：在线多人对战乐趣 | 坡道骑士** (ZH-CN): https://sloperider.net/zh-CN/game/tic-tac-toe-io
+- **疯狂翻转：跑酷特技游戏 - 免费玩 | 斜坡滑行** (ZH-CN): https://sloperider.net/zh-CN/game/wacky-flip
+- **Slope Rider：極速雪橇冒險遊戲** (ZH-TW Featured Game): https://sloperider.net/zh-TW
+- **城市衝刺.io：變身巨無霸！在坡道騎士上免費遊玩** (ZH-TW): https://sloperider.net/zh-TW/game/city-run-io
+- **Curve Rush IO：競速、智取 &amp; 勝利！ | 斜坡賽車手** (ZH-TW): https://sloperider.net/zh-TW/game/curve-rush-io
+- **鴨鴨 2：免費玩益智遊戲 | 斜坡滑行** (ZH-TW): https://sloperider.net/zh-TW/game/duck-duck-2
+- **Growden.io：免費農場模擬器 | 坡道騎士** (ZH-TW): https://sloperider.net/zh-TW/game/growden-io
+- **最後離開圓圈Obby：玩免費生存遊戲 | 斜坡滑行** (ZH-TW): https://sloperider.net/zh-TW/game/last-to-leave-circle-obby
+- **斜坡：無盡街機球賽 | 在Slope Rider上免費暢玩** (ZH-TW): https://sloperider.net/zh-TW/game/slope
+- **斜坡滑行2：無盡街機樂趣 - 在Slope Rider上免費玩！** (ZH-TW): https://sloperider.net/zh-TW/game/slope-2
+- **斜坡3：無盡滾球冒險 | 斜坡騎士** (ZH-TW): https://sloperider.net/zh-TW/game/slope-3
+- **雪地長征：無盡雪橇樂趣 - 在斜坡滑道上免費暢玩** (ZH-TW): https://sloperider.net/zh-TW/game/snow-road
+- **雪地競速3D：競速、特技與勝利 | 斜坡騎士** (ZH-TW): https://sloperider.net/zh-TW/game/snow-road-3d
+- **魷魚遊戲.io：免費多人生存遊戲 | 坡道滑行** (ZH-TW): https://sloperider.net/zh-TW/game/squidgame-io
+- **偷走腦迴路：多人搶劫遊戲 - 坡道騎士** (ZH-TW): https://sloperider.net/zh-TW/game/steal-a-brainrot
+- **超級瑪利歐酷跑：立即在斜坡滑行者上免費遊玩！** (ZH-TW): https://sloperider.net/zh-TW/game/super-mario-run
+- **井字棋 IO：線上多人同樂 | 坡道騎士** (ZH-TW): https://sloperider.net/zh-TW/game/tic-tac-toe-io
+- **瘋狂翻轉：跑酷特技遊戲 - 免費暢玩 | 斜坡騎士** (ZH-TW): https://sloperider.net/zh-TW/game/wacky-flip
