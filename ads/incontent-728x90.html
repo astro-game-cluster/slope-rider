@@ -12,7 +12,49 @@
         overflow: hidden;
         background: transparent;
       }
+      html {
+        color-scheme: light;
+      }
+      html.dark {
+        color-scheme: dark;
+      }
+      html.dark div[id^="container-"] {
+        filter: brightness(0.95) contrast(1.05);
+      }
+      html.dark a {
+        color: #e5e7eb !important;
+      }
     </style>
+    <script>
+      (function () {
+        function applyTheme(isDark) {
+          if (isDark) {
+            document.documentElement.classList.add('dark');
+          } else {
+            document.documentElement.classList.remove('dark');
+          }
+        }
+        try {
+          var isDark = false;
+          if (window.parent && window.parent.document && window.parent.document.documentElement) {
+            isDark = window.parent.document.documentElement.classList.contains('dark');
+          } else {
+            var saved = localStorage.getItem('theme');
+            isDark = saved === 'dark' || (!saved && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches);
+          }
+          applyTheme(isDark);
+        } catch (e) {
+          try {
+            applyTheme(localStorage.getItem('theme') === 'dark');
+          } catch (err) {}
+        }
+        window.addEventListener('message', function (event) {
+          if (event.data && event.data.type === 'theme-change') {
+            applyTheme(event.data.theme === 'dark');
+          }
+        });
+      })();
+    </script>
   </head>
   <body>
     <!-- 
